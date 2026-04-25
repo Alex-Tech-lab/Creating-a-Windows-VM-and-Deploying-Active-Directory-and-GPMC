@@ -6,6 +6,10 @@
 ![Duration](https://img.shields.io/badge/Duration-1--2%20hours-orange?style=flat-square)
  
 ---
+
+Video Lab Link: https://www.loom.com/share/01d82aced167448990fa0926d917f916
+
+---
  
 ## Overview
  
