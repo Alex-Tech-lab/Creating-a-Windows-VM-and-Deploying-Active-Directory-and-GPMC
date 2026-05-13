@@ -1,4 +1,4 @@
-# Lab 01: Provision · Install AD DS · Promote to Domain Controller
+# Provision · Install AD DS · Promote to Domain Controller
  
 ![Platform](https://img.shields.io/badge/Platform-Windows%20Server%202025-blue?style=flat-square)
 ![Cloud](https://img.shields.io/badge/Cloud-Azure%20Free%20Tier-0078D4?style=flat-square&logo=microsoftazure)
